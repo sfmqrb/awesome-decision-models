@@ -157,7 +157,7 @@ A chat LLM writes an answer token by token and your code parses it back into an 
 
 ## Tools and CLIs
 
-<!-- sfmqrb CLI: add entry here when released -->
+- [gutcheck](https://github.com/sfmqrb/gutcheck) - grep for meaning: a single-binary CLI that runs Laya locally, with a live explorer, named questions and a log cache.
 - [jgrep](https://github.com/keltokhy/jgrep) - grep where the pattern is a description.
 - [jev-semgrep](https://github.com/uehaj/jev-semgrep) - Grep by meaning across languages with AND/OR/NOT.
 - [jegrep](https://github.com/can1357/jegrep) - Find code by describing it.
