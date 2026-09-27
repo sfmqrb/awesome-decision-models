@@ -71,6 +71,7 @@ A chat LLM writes an answer token by token and your code parses it back into an 
 - [Eikos](https://github.com/caiovicentino/eikos) - Single-pass typed decision models (4B and 27B) for finance.
 - [dev-0.4b](https://github.com/mpnikhil/dev-0.4b) - 0.4B bidirectional decision model on ModernBERT-large.
 - [Blink](https://github.com/sqliteai/blink) - System One model with an embeddable C runtime and WebAssembly support.
+- [jevos](https://github.com/feder-cr/jev) - 1B yes/no decision model cut from MiniCPM5 to 17 layers, GGUF q4_k_m for CPU-only local inference behind a Jev-compatible API.
 
 ## Runtimes, ports and servers
 
