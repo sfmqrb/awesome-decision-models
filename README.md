@@ -224,6 +224,7 @@ A chat LLM writes an answer token by token and your code parses it back into an 
 
 ## Papers
 
+- [Jev in the Wild (arXiv:2609.30216)](https://arxiv.org/abs/2609.30216) - Data-driven survey of 2,170 public GitHub Jev projects, examining early ecosystem growth, application domains, and decision-use patterns.
 - [SalesRLAgent (arXiv:2503.23303)](https://arxiv.org/abs/2503.23303) - Earlier reinforcement-learning paper by Laya's author, cited as prior work.
 - [Confidence-Aware Routing for LLM Reliability Enhancement (arXiv:2510.01237)](https://arxiv.org/abs/2510.01237) - Pre-generation routing paper by Laya's author.
 - [Calibrated Decisions at Scale (arXiv:2609.24052)](https://arxiv.org/abs/2609.24052) - Converting police crash narratives into probabilistic variables with Jev.
