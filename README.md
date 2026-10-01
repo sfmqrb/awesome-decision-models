@@ -147,6 +147,7 @@ A chat LLM writes an answer token by token and your code parses it back into an 
 - [third-hand](https://github.com/shhivv/third-hand) - Computer-use assistant built on decision models.
 - [system1-agents](https://github.com/ThinkFlowLab/system1-agents) - Jev, Laya and Cua-S1 as the brain for browser, computer, game and robot agents.
 - [unclutter](https://github.com/kitze/unclutter) - Browser extension that removes page clutter with reusable rules.
+- [Sedum](https://github.com/sedum-dev/sedum) - Plain-English browser tests on Playwright that use Jev to pick each next action in goal mode, resolve each step's element and judge verify claims.
 
 ### MCP servers
 
