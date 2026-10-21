@@ -190,6 +190,7 @@ A chat LLM writes an answer token by token and your code parses it back into an 
 - [typesafe-mario](https://github.com/fhshaik/typesafe-mario) - Agent that plays Super Mario Bros. from emulator state.
 - [minecraft-agent](https://github.com/rmalde/minecraft-agent) - Minecraft planner with a Jev controller.
 - [jevpilot](https://github.com/standardagents/jevpilot) - Three.js driving simulator with a Jev autopilot.
+- [Trio-Spark demos](https://github.com/machinefi/trio-spark) - Ticket routing, comment moderation and camera demos for the hosted Trio-Spark decision API.
 
 ## Robotics and simulation
 
