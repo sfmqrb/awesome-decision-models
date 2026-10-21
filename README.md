@@ -71,6 +71,7 @@ A chat LLM writes an answer token by token and your code parses it back into an 
 - [Eikos](https://github.com/caiovicentino/eikos) - Single-pass typed decision models (4B and 27B) for finance.
 - [dev-0.4b](https://github.com/mpnikhil/dev-0.4b) - 0.4B bidirectional decision model on ModernBERT-large.
 - [Blink](https://github.com/sqliteai/blink) - System One model with an embeddable C runtime and WebAssembly support.
+- [Trio-Spark DI](https://huggingface.co/MachineFi/Trio-Spark-DI) - Gated 9B research checkpoint (GGUF, CC BY-NC 4.0) with a llama.cpp `/v1/systemone` server for choice, score and yes/no questions.
 
 ## Runtimes, ports and servers
 
